@@ -244,8 +244,8 @@ local Tabs = {
 
 -- Credits Tab
 local CreditsGroupBox = Tabs.Credits:AddLeftGroupbox("Credits 👤")
-CreditsGroupBox:AddLabel("Created by Dre 🔥", true)
-CreditsGroupBox:AddLabel("Thanks To Dre Team For Making This Possible... 🙏", true)
+CreditsGroupBox:AddLabel("Created by Sensational 🔥", true)
+CreditsGroupBox:AddLabel("Miorsigma", true)
 
 CreditsGroupBox:AddButton({
     Text = "Join Discord",
